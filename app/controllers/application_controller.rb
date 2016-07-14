@@ -12,3 +12,5 @@ end
 def hellom
 	render html: "hola mualo"
 end
+
+end
